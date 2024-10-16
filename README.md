@@ -1,4 +1,4 @@
-# Overcoming Domain Limitations in Open-vocabulary Segmentation
+# [Overcoming Domain Limitations in Open-vocabulary Segmentation](https://arxiv.org/abs/2410.11536)
 
 by [Dongjun Hwang](https://dongjunhwang.github.io/), [Seong Joon Oh](https://coallaoh.github.io/), [Junsuk Choe^](https://sites.google.com/site/junsukchoe/)
 
@@ -6,7 +6,7 @@ by [Dongjun Hwang](https://dongjunhwang.github.io/), [Seong Joon Oh](https://coa
 
 **News**
 
-- **[2024.10.15]** We have released the preprint on arXiv.
+- **[2024.10.15]** We have released the [preprint](https://arxiv.org/abs/2410.11536) on arXiv.
 
 <br>
 
